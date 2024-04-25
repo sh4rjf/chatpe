@@ -2,10 +2,15 @@
 Contributors: Omar Dolores
 
 Tags: chatpe, button, chat, messaging
+
 Requires at least: 4.0
+
 Tested up to: 5.9
+
 Stable tag: 1.0
+
 License: GPL-2.0+
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Agrega un botón de ChatPe en tu sitio para facilitar la comunicación con tus usuarios a través de ChatPe.
