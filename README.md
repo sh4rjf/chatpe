@@ -1,5 +1,6 @@
 === ChatPe Button ===
 Contributors: Omar Dolores
+
 Tags: chatpe, button, chat, messaging
 Requires at least: 4.0
 Tested up to: 5.9
