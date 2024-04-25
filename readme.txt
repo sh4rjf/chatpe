@@ -1,4 +1,4 @@
-=== ChatPe Button ===
+=== ChatPe Mensajes ===
 
 Contributors: Omar Dolores
 
