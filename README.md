@@ -19,9 +19,9 @@ Agrega un botón de ChatPe en tu sitio para facilitar la comunicación con tus u
 Este plugin te permite agregar un botón de ChatPe en tu sitio web para que tus usuarios puedan comunicarse fácilmente contigo a través de ChatPe. Puedes personalizar el número de ChatPe al que se dirigirá el botón y la imagen que se mostrará como icono del botón.
 
 == Instalación ==
-1. Sube la carpeta `chatpe-button` al directorio `/wp-content/plugins/`.
+1. Sube la carpeta `chatpe 1.0` al directorio `/wp-content/plugins/`.
 2. Activa el plugin a través del menú 'Plugins' en WordPress.
-3. Ve a 'Ajustes' -> 'Configuración de ChatPe' para configurar el número de ChatPe y la imagen del botón.
+3. Ve a 'Ajustes' -> 'Configuración de ChatPe Mensajes' para configurar el número de ChatPe y la imagen del botón.
 
 == Capturas ==
 1. Captura de pantalla del formulario de configuración del plugin.
