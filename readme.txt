@@ -1,40 +1,36 @@
 === ChatPe Mensajes ===
-
 Contributors: Omar Dolores
-
-Tags: chatpe, button, chat, messaging
-
+Plugin URI: https://github.com/sh4rjf/chatpe
+Tags: chat, chatpe, mensajes, support
 Requires at least: 4.0
-
 Tested up to: 5.9
-
 Stable tag: 1.0
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-License: GPL-2.0+
+Descripción
+-----------
 
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ChatPe Mensajes es un plugin que permite incorporar un sistema de chat en tiempo real en tu sitio web, facilitando la interacción instantánea entre los visitantes. Simplemente configura tu número de ChatPe y la imagen del botón, y el plugin se encargará del resto.
 
-Agrega un botón de ChatPe en tu sitio para facilitar la comunicación con tus usuarios a través de ChatPe.
+Características
+---------------
+- Integra fácilmente el sistema de chat de ChatPe en tu sitio web.
+- Configura tu número de ChatPe y la imagen del botón desde el panel de administración.
+- El botón de ChatPe se muestra en las páginas individuales después del primer párrafo del contenido.
 
-== Descripción == Este plugin te permite agregar un botón de ChatPe en tu sitio web para que tus usuarios puedan comunicarse fácilmente contigo a través de ChatPe. Puedes personalizar el número de ChatPe al que se dirigirá el botón y la imagen que se mostrará como icono del botón.
+Instalación
+-----------
+1. Sube la carpeta `chatpe-mensajes` al directorio `/wp-content/plugins/`.
+2. Activa el plugin a través del menú "Plugins" en WordPress.
+3. Ve a la página "Configuración de ChatPe Mensajes" en el panel de administración para configurar tu número de ChatPe y la imagen del botón.
 
-== Instalación ==
+Capturas de pantalla
+--------------------
+1. Página de configuración del plugin en el panel de administración.
 
-Sube la carpeta chatpe 1.0 al directorio /wp-content/plugins/.
-Activa el plugin a través del menú 'Plugins' en WordPress.
-Ve a 'Ajustes' -> 'Configuración de ChatPe Mensajes' para configurar el número de ChatPe y la imagen del botón.
-== Capturas ==
-
-Captura de pantalla del formulario de configuración del plugin.
-== Changelog ==
-
+Changelog
+---------
 = 1.0 =
+* Versión inicial del plugin.
 
-Versión inicial del plugin.
-== Frequently Asked Questions ==
-
-= ¿Cómo cambio el número de ChatPe al que se dirige el botón? = Puedes cambiar el número de ChatPe y la imagen del botón en la página de configuración del plugin.
-
-= ¿Puedo personalizar la apariencia del botón de ChatPe? = Sí, puedes personalizar la imagen del botón de ChatPe seleccionando una imagen desde la biblioteca de medios de WordPress.
-
-== Upgrade Notice ==
